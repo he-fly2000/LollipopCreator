@@ -10,9 +10,9 @@ Golang语言社区  前端creator框架，通信方式 websocket, 与社区的Lo
 --------------
 WwW.Golang.Ltd
 
-QQ群
+LollipopGo架构QQ交流群
 -----------
-221273219
+955259501
 
 腾讯云+社区专栏
 -----------
