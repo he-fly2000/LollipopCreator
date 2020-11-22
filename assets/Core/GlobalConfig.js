@@ -8,7 +8,7 @@ class GlobalConfig {
         this.gameServerServerData = ''
         this.gameServerTocken = ''   // 客户端保存tocken信息
         this.gameServer7_2 = false
-        this.gameServerUrl = "http://172.20.10.6:4001" // "http://120.25.80.44:7600"
+        this.gameServerUrl = "http://ip:8888"
         this.GameList = {}
 
         this.showHB = false  //心跳显示
